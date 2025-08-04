@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "name": "Dwaraka",
+    "age": 25,
+    "gender": "Male",
+    "weight": 70.0,
+    "height": 170.0,
+    "activity_level": "Moderately Active",
+    "goal": "Gain Weight",
+    "bmr": 1700.057,
+    "daily_calories": 2635.08835,
+    "target_calories": 3135.08835
+  },
+  "meals": [],
+  "exercises": [],
+  "goals": {}
+}
